@@ -1,2 +1,2 @@
-a = ("enter your message")
-print(a)
+a =input ("enter your message")
+print("your message:",a)
